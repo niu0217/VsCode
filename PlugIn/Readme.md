@@ -8,3 +8,4 @@
 
 + cpptools-linux.vsix
 
++ code-runner-0.9.17.vsix
