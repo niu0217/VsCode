@@ -2,5 +2,5 @@
 
 ## Linux
 
-+ Linux/cpptools-linux.vsix
++ cpptools-linux.vsix
 
