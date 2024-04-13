@@ -5,5 +5,5 @@
 + 插件市场：https://marketplace.visualstudio.com/vscode
 + 源代码：https://github.com/microsoft/vscode
 
-## 2. 常用插件离线安装包
+## [2. 常用插件离线安装包](https://github.com/niu0217/VsCode/tree/main/PlugIn)
 
